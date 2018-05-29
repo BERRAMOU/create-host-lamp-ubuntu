@@ -1,6 +1,6 @@
 # Set Up Apache Virtual Hosts on Ubuntu 14.04 LTS
 
-##Prerequisites
+## Prerequisites
 ### Apache2 installed 
 you can get Apache installed on your machine  through **apt-get** :
 ```
@@ -113,5 +113,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ```
 6. Test your Results, And enjoy it :+1: 
-When you tape ``http://example.com`` you should See.
-#Success!  The example.com virtual host is working!
+you can test your setup easily by going to the domains that you configured in your web browser : 
+``http://example.com`` 
+You should see a page that looks like this:
+
+# Success!  The example.com virtual host is working!
