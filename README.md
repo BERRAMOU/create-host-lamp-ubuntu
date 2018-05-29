@@ -8,7 +8,7 @@ sudo apt-get update
 sudo apt-get install apache2
 ```
 
-1. Create or move your project directory to your directory root server __/var/www/__ Or __/var/www/html__ we will work the second one in this tutorial.
+1. Create or move your project directory to your directory root server __/var/www/__ Or __/var/www/html__ we will work the second one in this tutorial.  
  For instance: 
  ```
 sudo mkdir -p /var/www/html/example
@@ -113,8 +113,8 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ```
 6. Test your Results, And enjoy it :+1:  
-you can test your setup easily by going to the domains that you configured in your web browser : 
-``http://example.com`` 
+you can test your setup easily by going to the domains that you configured in your web browser :   
+``http://example.com``   
 You should see a page that looks like this:
 
 # Success!  The example.com virtual host is working!
