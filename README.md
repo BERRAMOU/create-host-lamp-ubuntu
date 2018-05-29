@@ -112,7 +112,7 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ```
-6. Test your Results, And enjoy it :+1: 
+6. Test your Results, And enjoy it :+1:  
 you can test your setup easily by going to the domains that you configured in your web browser : 
 ``http://example.com`` 
 You should see a page that looks like this:
